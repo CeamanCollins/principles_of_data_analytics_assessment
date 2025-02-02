@@ -1,8 +1,8 @@
-# principles_of_data_analytics_assessment
+# Princicples of Data Analytics
 
 by Céaman Collins
 
-##
+## Setup
 
 1. Sign up for a free GitHub account.
 2. Go to the repository page in your browser.
