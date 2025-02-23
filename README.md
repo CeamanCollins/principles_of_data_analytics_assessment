@@ -22,3 +22,8 @@ by Céaman Collins
 
 - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
 - https://docs.python.org/3/library/array.html
+- https://matplotlib.org/stable/gallery/statistics/hist.html
+- https://stackoverflow.com/questions/30019671/why-does-my-xlabel-not-show-up-its-not-getting-cut-off
+- https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html#matplotlib.pyplot.subplots
+- https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/figure_title.html
