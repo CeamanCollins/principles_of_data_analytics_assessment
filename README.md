@@ -10,7 +10,11 @@ Each task is stated in the relevant section and explored in the following code b
 
 If you choose to run this in your own local environment, there is a requirements file that contains the necessary packages needed to execute all cells in the notebook. This can be imported as an environment using conda:
 
-> $ conda create --name <env> --file <this file>
+> $ conda create --name <env> --file requirements_conda.txt
+
+And using pip you can import to your current working environment using:
+
+> $ pip install -r requirements_pip.txt
 
 Alternatively you can browse the notebook directly in GitHub or use GitHub codespaces to run the code contained in the notebook:
 
