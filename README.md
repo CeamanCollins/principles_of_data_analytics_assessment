@@ -63,13 +63,13 @@ To run the notebook, you can set up the environment using the provided requireme
 ### Using `conda`:
 Create a Conda environment with the necessary dependencies:
 ```bash
-conda create --name <environment-name> --file requirements_conda.txt
+conda create --name <environment-name> --file requirements.txt
 ```
 
 ### Using `pip`:
 Install the required packages directly in your current environment:
 ```bash
-pip install -r requirements_pip.txt
+pip install -r requirements.txt
 ```
 
 ### Run in GitHub CodeSpaces:
